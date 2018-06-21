@@ -4,7 +4,8 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 
-* jynnie: blog about BDiGRA [n/a]
+* jynnie: dbh review [1: research other reviews]
+  * goal time: jun 29
 * mattf: finish clicker app
   * goal time: end of summer
 * mattf: update my personal website
@@ -15,3 +16,4 @@ A ring of friends decides to give one another good peer pressure to do things
 success stories
 
 * jynnie: finally updated personal website
+* jynnie: blog about BDiGRA
