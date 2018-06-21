@@ -2,10 +2,7 @@
 
 A ring of friends decides to give one another good peer pressure to do things
 
-## Projects
-
-_example entry_
-* jynnie: project [update]
+## Ongoing
 
 * jynnie: blog about BDiGRA [n/a]
 
