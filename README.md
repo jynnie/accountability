@@ -8,6 +8,8 @@ A ring of friends decides to give one another good peer pressure to do things
   * goal time: jun 29
 * mattf: finish clicker app
   * goal time: end of summer
+* mattf: polish up McD4Me
+  * goal time: end of summer
 
 ## Archives
 
