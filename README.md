@@ -4,7 +4,7 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 
-* jynnie: dbh review [2: write a basic draft]
+* jynnie: dbh review [3: write final draft]
   * goal time: jun 29
 * mattf: finish clicker app
   * goal time: end of summer
