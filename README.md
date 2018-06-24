@@ -10,6 +10,15 @@ A ring of friends decides to give one another good peer pressure to do things
   * goal time: end of summer
 * mattf: polish up McD4Me
   * goal time: end of summer
+* joonhok
+  * finish reading about java/scala
+  	* goal time: end of july
+  * write blog about course 6-3
+    * goal time: monday (6/25)
+  * write blog about last two years of MIT in general
+    * goal time: end of summer
+  * update personal website
+    * goal time: end of summer
 
 ## Archives
 
