@@ -35,6 +35,8 @@ A ring of friends decides to give one another good peer pressure to do things
   * Progress: Researching and defining scope of project
 * carlosh: reroute personal website to new domain
   * Goal time: end of this week
+* jynnie: finish onionvale & deploy
+* jynnie: next housing site owo
 
 ## Archives
 
