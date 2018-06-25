@@ -3,14 +3,17 @@
 A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
-
-* jynnie: dbh review [3: write final draft]
-  * goal time: jun 29
-* mattf: finish clicker app
-  * goal time: end of summer
-* mattf: polish up McD4Me
-  * goal time: end of summer
-* joonhok
+* **jynnie**
+  * dbh review [3: write final draft]
+    * goal time: jun 29
+  * finish onionvale & deploy
+  * next housing site owo
+* **mattf** 
+  * finish clicker app
+    * goal time: end of summer
+  * polish up McD4Me
+    * goal time: end of summer
+* **joonhok**
   * finish reading about java/scala
   	* goal time: end of july
     * current progress:
@@ -22,24 +25,26 @@ A ring of friends decides to give one another good peer pressure to do things
     * goal time: end of summer
   * update personal website
     * goal time: end of summer
-* shannon: arrange this is gospel
+* **shannon** 
+  * arrange this is gospel
     * goal: end of july
     * progress: gnashing teeth and criminal tongues
-* shannon: make personal website
+  * make personal website
     * goal: end of july
-* shannon: 18.06, 6.042
+  * 18.06, 6.042
     * goal: end of summer
     * progress: lectures 4 and 3 (respectively)
-* carlosh: Finish GRE practice book
-  * Goal time: End of August
-  * Progress: Diagnostic tests
-* carlosh: Write new MEng Thesis Proposal
-  * Goal time: **August 17th**
-  * Progress: Researching and defining scope of project
-* carlosh: reroute personal website to new domain
-  * Goal time: end of this week
-* jynnie: finish onionvale & deploy
-* jynnie: next housing site owo
+* **carlosh**
+  * Finish GRE practice book
+    * Goal time: End of August
+    * Progress: Diagnostic tests
+  * Write new MEng Thesis Proposal
+    * Goal time: **August 17th**
+    * Progress: Researching and defining scope of project
+  * reroute personal website to new domain
+    * Goal time: end of this week
+  * Draft of MBA alumni outreach form
+    * Goaltime: **July 9**
 
 ## Archives
 
