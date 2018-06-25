@@ -27,6 +27,14 @@ A ring of friends decides to give one another good peer pressure to do things
 * shannon: 18.06, 6.042
     * goal: end of summer
     * progress: lectures 4 and 3 (respectively)
+* carlosh: Finish GRE practice book
+  * Goal time: End of August
+  * Progress: Diagnostic tests
+* carlosh: Write new MEng Thesis Proposal
+  * Goal time: **August 17th**
+  * Progress: Researching and defining scope of project
+* carlosh: reroute personal website to new domain
+  * Goal time: end of this week
 
 ## Archives
 
