@@ -13,8 +13,11 @@ A ring of friends decides to give one another good peer pressure to do things
 * joonhok
   * finish reading about java/scala
   	* goal time: end of july
+    * current progress:
+      * java: chapter 8/14
+      * scala: chapter 8/33
   * write blog about course 6-3
-    * goal time: monday (6/25)
+    * goal time: tuesday (6/26)
   * write blog about last two years of MIT in general
     * goal time: end of summer
   * update personal website
