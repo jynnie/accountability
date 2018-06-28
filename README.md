@@ -31,9 +31,10 @@ A ring of friends decides to give one another good peer pressure to do things
     * progress: gnashing teeth and criminal tongues
   * make personal website
     * goal: end of july
+    * progress: t e n t a t i v e designs
   * 18.06, 6.042
     * goal: end of summer
-    * progress: lectures 4 and 3 (respectively)
+    * progress: lectures 4 and 5 (respectively)
 * **carlosh**
   * Finish GRE practice book
     * Goal time: End of August
