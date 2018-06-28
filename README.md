@@ -4,7 +4,7 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 * **jynnie**
-  * dbh review [3: write final draft]
+  * dbh review [4: get feedback]
     * goal time: jun 29
   * finish onionvale & deploy
   * next housing site owo
