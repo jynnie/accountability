@@ -13,6 +13,8 @@ A ring of friends decides to give one another good peer pressure to do things
     * goal time: end of summer
   * polish up McD4Me
     * goal time: end of summer
+* **cor**
+  * ongoing: tryhard wanikani + jp reading/listening practice
 * **joonhok**
   * finish reading about java/scala
   	* goal time: end of july
@@ -46,6 +48,7 @@ A ring of friends decides to give one another good peer pressure to do things
     * Goal time: end of this week
   * Draft of MBA alumni outreach form
     * Goaltime: **July 9**
+  
 
 ## Archives
 
