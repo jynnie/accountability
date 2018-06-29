@@ -13,6 +13,11 @@ A ring of friends decides to give one another good peer pressure to do things
     * goal time: end of summer
   * polish up McD4Me
     * goal time: end of summer
+    * progress: polished up codebase
+    * actionables: 
+      * button to push back order close time
+      * host password
+      * make ordering better
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
 * **joonhok**
