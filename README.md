@@ -20,9 +20,7 @@ A ring of friends decides to give one another good peer pressure to do things
   	* goal time: end of july
     * current progress:
       * java: chapter 8/14
-      * scala: chapter 8/33
-  * write blog about course 6-3
-    * goal time: tuesday (6/26)
+      * scala: chapter 9/33
   * write blog about last two years of MIT in general
     * goal time: end of summer
   * update personal website
@@ -59,4 +57,5 @@ success stories
 * mattf: update my personal website
 * jynnie: finish DiGRA application
 * cor: stop putting off writing abstract for research
+* joonhok: did the blog on 6-3!
 
