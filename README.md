@@ -4,9 +4,8 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 * **jynnie**
-  * dbh review [5: revised & sent in for feedback]
+  * dbh review [6: waiting]
     * goal time: jun 29
-  * finish onionvale & deploy
   * next housing site owo
 * **mattf** 
   * finish clicker app
@@ -63,4 +62,4 @@ success stories
 * jynnie: finish DiGRA application
 * cor: stop putting off writing abstract for research
 * joonhok: did the blog on 6-3!
-
+* jynnie: finish [onionvale](onionvale.herokuapp.com) basics
