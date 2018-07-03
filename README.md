@@ -22,6 +22,8 @@ A ring of friends decides to give one another good peer pressure to do things
       * make ordering better
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
+  * work on osu! referee bot
+  * watch the anime ive been putting off
 * **joonhok**
   * finish reading about java/scala
   	* goal time: end of july
