@@ -25,10 +25,11 @@ A ring of friends decides to give one another good peer pressure to do things
   * work on osu! referee bot
   * watch the anime ive been putting off
 * **joonhok**
+  * clean my fucking room
   * finish reading about java/scala
   	* goal time: end of july
     * current progress:
-      * java: chapter 9/14
+      * java: chapter 10/14
       * scala: chapter 9/33
   * write blog about last two years of MIT in general
     * goal time: end of summer
