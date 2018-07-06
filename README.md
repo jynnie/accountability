@@ -52,10 +52,10 @@ A ring of friends decides to give one another good peer pressure to do things
   * Write new MEng Thesis Proposal
     * Goal time: **August 17th**
     * Progress: Researching and defining scope of project
-  * reroute personal website to new domain
-    * Goal time: end of this week
   * Draft of MBA alumni outreach form
     * Goaltime: **July 9**
+  * Go through Genki 1
+	* Goaltime: End of summer
   
 
 ## Archives
@@ -68,4 +68,6 @@ success stories
 * jynnie: finish DiGRA application
 * cor: stop putting off writing abstract for research
 * joonhok: did the blog on 6-3!
-* jynnie: finish [onionvale](onionvale.herokuapp.com) basics
+* jynnie: finish [onionvale](https://onionvale.herokuapp.com) basics
+* carlosh: reroute personal website to new domain (rip domain squatters)
+* carlosh: submit PRs for [onionvale](https://github.com/jynnie/onionvale)
