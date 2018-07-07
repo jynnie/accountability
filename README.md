@@ -4,12 +4,16 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 * **jynnie**
-  * dbh review [6: waiting...]
+  * dbh review
     * goal time: jun 29
-  * blogging/easter eggs
-    * goal time: jul 7
-  * next housing site owo
+    * progress: waiting for publication
+  * next housing site
     * goal time: 1/2 jul
+    * progress: fixing bugs =_=
+  * blog post on Mao
+    * goal time: end of jul
+  * crowns videogame
+    * goal time: end of summer
 * **mattf** 
   * finish clicker app
     * goal time: end of summer
