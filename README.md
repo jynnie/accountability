@@ -4,9 +4,6 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 * **jynnie**
-  * dbh review
-    * goal time: jun 29
-    * progress: waiting for publication
   * next housing site
     * goal time: 1/2 jul
     * progress: fixing bugs =_=
@@ -75,3 +72,4 @@ success stories
 * jynnie: finish [onionvale](https://onionvale.herokuapp.com) basics
 * carlosh: reroute personal website to new domain (rip domain squatters)
 * carlosh: submit PRs for [onionvale](https://github.com/jynnie/onionvale)
+* jynnie: dbh review is [published](https://thetech.com/2018/07/09/detroit-video-game-review)!
