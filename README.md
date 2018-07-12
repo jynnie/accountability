@@ -56,7 +56,7 @@ A ring of friends decides to give one another good peer pressure to do things
   * Draft of MBA alumni outreach form
     * Goaltime: **July 9**
   * Go through Genki 1
-  * Goaltime: End of summer
+    * Goaltime: End of summer
 * **jerrymei**
   * Chemistry ASE
     * Goal time: **Aug 1**
