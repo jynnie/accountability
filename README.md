@@ -16,11 +16,10 @@ A ring of friends decides to give one another good peer pressure to do things
     * goal time: end of summer
   * polish up McD4Me
     * goal time: end of summer
-    * progress: polished up codebase
+    * progress: added 'Beantown' Functionality
     * actionables: 
-      * button to push back order close time
-      * host password
-      * make ordering better
+      * Add 'Dumpling Palace' Menu
+      * Add db validation
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
   * work on osu! referee bot
