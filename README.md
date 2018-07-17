@@ -55,12 +55,27 @@ A ring of friends decides to give one another good peer pressure to do things
   * Draft of MBA alumni outreach form
     * Goaltime: **July 9**
   * Go through Genki 1
-	* Goaltime: End of summer
-  
+    * Goaltime: End of summer
+* **jerrymei**
+  * Chemistry ASE
+    * Goal time: **Aug 1**
+  * Work on [IntPhysics](https://github.com/bootphon/intphys) project with lab mates
+    * Progress: converting data into appropriate format
+    * Goal time: **Aug 31**
+  * Work on Soft Object Interation project
+    * Progress: Generating data
+    * Goal time: **Nov 1** presumed CVPR deadline
+  * Finish the report and poster for [Winograd Convolution project](https://github.com/JerryLingjieMei/WinogradConvolution)
+    * Goal time: **Aug 1**
+  * 16 pull-ups in a row
+    * Goal time: **Aug 31**
+    * Progress: currently 13
+  * Learn to sail alone
+    * Goal time: **Aug 31**
 
 ## Archives
 
-success stories
+success stories, most recent appear last
 
 * jynnie: finally updated personal website
 * jynnie: blog about BDiGRA
