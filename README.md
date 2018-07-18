@@ -6,7 +6,7 @@ A ring of friends decides to give one another good peer pressure to do things
 * **jynnie**
   * next housing site
     * goal time: 1/2 jul
-    * progress: fixing bugs =_=
+    * progress: import feature implemented
   * blog post on Mao
     * goal time: end of jul
   * crowns videogame
