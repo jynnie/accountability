@@ -41,7 +41,7 @@ A ring of friends decides to give one another good peer pressure to do things
     * progress: gnashing teeth and criminal tongues
   * make personal website
     * goal: end of july
-    * progress: t e n t a t i v e designs
+    * progress: finished web but not mobile friendly rip
   * 18.06, 6.042
     * goal: end of summer
     * progress: lectures 4 and 5 (respectively)
