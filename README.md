@@ -16,9 +16,10 @@ A ring of friends decides to give one another good peer pressure to do things
     * goal time: end of summer
   * polish up McD4Me
     * goal time: end of summer
-    * progress: added 'Beantown' Functionality
+    * progress: added 'Bonchon' Functionality
     * actionables: 
-      * Add 'Dumpling Palace' Menu
+      * Add 'Pepper Sky' Menu
+      * Add restaurant closing time warnings
       * Add db validation
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
