@@ -14,13 +14,9 @@ A ring of friends decides to give one another good peer pressure to do things
 * **mattf** 
   * finish clicker app
     * goal time: end of summer
-  * polish up McD4Me
-    * goal time: end of summer
-    * progress: added 'Bonchon' Functionality
-    * actionables: 
-      * Add 'Pepper Sky' Menu
-      * Add restaurant closing time warnings
-      * Add db validation
+  * finish soundboard app
+    * goal time: August 10th
+    * actionables: I need sound files lmaooooo
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
   * work on osu! referee bot
@@ -88,3 +84,4 @@ success stories, most recent appear last
 * carlosh: reroute personal website to new domain (rip domain squatters)
 * carlosh: submit PRs for [onionvale](https://github.com/jynnie/onionvale)
 * jynnie: dbh review is [published](https://thetech.com/2018/07/09/detroit-video-game-review)!
+* mattf: mcd is updated! I should bug test but that can be done in production
