@@ -20,7 +20,7 @@ A ring of friends decides to give one another good peer pressure to do things
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
   * work on osu! referee bot
-  * watch the anime ive been putting off
+  * watch dogen phonetics videos
 * **joonhok**
   * clean my fucking room
   * finish reading about java/scala
