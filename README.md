@@ -5,12 +5,14 @@ A ring of friends decides to give one another good peer pressure to do things
 ## Ongoing
 * **jynnie**
   * next housing site
-    * goal time: 1/2 jul
-    * progress: import feature implemented
+    * goal time: today lol
+    * progress: lottery feature almost fully implemented
+  * web.lab branding
+    * checkpoint: aug 1
+  * the two box project [in progress]
   * blog post on Mao
-    * goal time: end of jul
-  * crowns videogame
     * goal time: end of summer
+  * crowns videogame
 * **mattf** 
   * finish clicker app
     * goal time: end of summer
