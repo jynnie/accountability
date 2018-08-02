@@ -5,11 +5,12 @@ A ring of friends decides to give one another good peer pressure to do things
 ## Ongoing
 * **jynnie**
   * next housing site
-    * goal time: today lol
-    * progress: lottery feature almost fully implemented
-  * web.lab branding
-    * checkpoint: aug 1
-  * the two box project [in progress]
+    * goal time: inb4 freshmen
+    * testing
+  * web.lab branding 
+    * awaiting decision making
+  * the two box project 
+    * next target: box 3
   * blog post on Mao
     * goal time: end of summer
   * crowns videogame
@@ -84,3 +85,4 @@ success stories, most recent appear last
 * carlosh: submit PRs for [onionvale](https://github.com/jynnie/onionvale)
 * jynnie: dbh review is [published](https://thetech.com/2018/07/09/detroit-video-game-review)!
 * mattf: mcd is updated! I should bug test but that can be done in production
+* jynnie: wrote a [blog post](https://projynnie.wordpress.com/2018/08/01/reminiscing-about-internet-forums-and-on-being-misgendered-on-reddit/)
