@@ -22,7 +22,8 @@ A ring of friends decides to give one another good peer pressure to do things
     * actionables: I need sound files lmaooooo
 * **cor**
   * ongoing: tryhard wanikani + jp reading/listening practice
-  * work on osu! referee bot
+  * try a new programming language: prob either go or rust
+    * goal: 8/15
   * watch dogen phonetics videos
 * **joonhok**
   * clean my fucking room
