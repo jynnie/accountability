@@ -4,16 +4,10 @@ A ring of friends decides to give one another good peer pressure to do things
 
 ## Ongoing
 * **jynnie**
-  * next housing site
-    * goal time: inb4 freshmen
-    * testing
-  * web.lab branding 
-    * awaiting decision making
-  * the two box project 
-    * next target: box 3
+  * make a markup lang: lvlup
   * blog post on Mao
-    * goal time: end of summer
-  * crowns videogame
+    * goal time: uhhh...
+  * housing app bug squashing & documentation
 * **mattf** 
   * finish clicker app
     * goal time: end of summer
@@ -87,3 +81,5 @@ success stories, most recent appear last
 * jynnie: dbh review is [published](https://thetech.com/2018/07/09/detroit-video-game-review)!
 * mattf: mcd is updated! I should bug test but that can be done in production
 * jynnie: wrote a [blog post](https://projynnie.wordpress.com/2018/08/01/reminiscing-about-internet-forums-and-on-being-misgendered-on-reddit/)
+* jynnie: web.lab branding
+* jynnie: beta version of the housing website, minor bugs still need to be fixed
